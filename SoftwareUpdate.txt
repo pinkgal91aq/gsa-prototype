@@ -1,1 +1,1 @@
-Update HTTP to HTTPS (#7548)
+Fix PNNX ubuntu -> linux bug (#7050)
