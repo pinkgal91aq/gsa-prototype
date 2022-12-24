@@ -1,1 +1,1 @@
-docs: update view-results-in-terminal.md (#66)
+Tab Manager - An easy way to batch-export, batch-close, and batch-add tabs
