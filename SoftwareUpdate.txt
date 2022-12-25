@@ -1,1 +1,1 @@
-fix export tensorrt with dynamic size
+OpenVino 2024.0.0 (#8726)
