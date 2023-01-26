@@ -1,1 +1,1 @@
-Fix TypeError in check_cfg() (#9245)
+Add quantization support to TensorFlow.js converter (#7008)
