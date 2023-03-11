@@ -1,1 +1,1 @@
-Update neural-magic.md (#7347)
+Feature: Create HUB Models from CLI or Python Script (#7316)
