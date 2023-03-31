@@ -1,1 +1,1 @@
-Fix OpenVINO links (#7930)
+Update CI.md with CI links (#8786)
