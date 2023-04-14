@@ -1,1 +1,1 @@
-Add docs guide terminal images (#8819)
+Update mkdocs-ultralytics-plugin>=0.0.44 (#8347)
