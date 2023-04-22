@@ -1,1 +1,1 @@
-Compress docs images (#8124)
+OpenVino 2024.0.0 (#8726)
