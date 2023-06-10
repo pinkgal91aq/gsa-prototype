@@ -1,1 +1,1 @@
-Add OpenVINO Latency vs Throughput modes Docs page (#9001)
+ultralytics 8.1.21 Add YOLOv8-World-v2 models (#8580)
