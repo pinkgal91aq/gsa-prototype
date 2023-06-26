@@ -1,1 +1,1 @@
-Batch inference fixes (#8854)
+Pass callbacks to validator (#7320)
