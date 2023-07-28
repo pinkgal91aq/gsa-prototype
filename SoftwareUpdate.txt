@@ -1,1 +1,1 @@
-Add line counting and circular heatmaps in Ultralytics Solutions (#7113)
+Fix PNNX ubuntu -> linux bug (#7050)
