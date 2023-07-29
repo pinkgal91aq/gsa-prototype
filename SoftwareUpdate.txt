@@ -1,1 +1,1 @@
-Fix PNNX ubuntu -> linux bug (#7050)
+Auto-format by https://ultralytics.com/actions
