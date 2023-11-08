@@ -1,1 +1,1 @@
-Fix docker.yaml double-quote version bug (#7452)
+Fix OpenVINO missing batch-size bug (#9264)
