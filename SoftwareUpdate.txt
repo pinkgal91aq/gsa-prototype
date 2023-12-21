@@ -1,1 +1,1 @@
-ultralytics 8.1.13 fix yolo train time= bug (#8179)
+Bump github/codeql-action from 2 to 3 in /.github/workflows (#7041)
