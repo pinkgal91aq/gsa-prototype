@@ -1,1 +1,1 @@
-OBB: Fix plot_images (#7592)
+ultralytics 8.1.5 add OBB Tracking support (#7731)
