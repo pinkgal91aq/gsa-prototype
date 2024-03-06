@@ -1,1 +1,1 @@
-Fix solution functions description + integrations/openvino.md cover image update (#8170)
+Do RTDETR file suffix check using pathlib instead of string manipulations (#8525)
