@@ -1,1 +1,1 @@
-fix predict with class filter
+Add yolo_bbox2segment docs reference (#7751)
